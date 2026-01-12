@@ -16,19 +16,19 @@
 
 ### 🎯 About Me
 
-```javascript
-const madhav = {
-    education: "B.Tech in Robotics & AI",
-    currentlyLearning: ["Python", "Machine Learning", "React.js"],
-    experience: "Web Development Intern @ Tensorik",
-    workingWith: ["JavaScript", "HTML", "CSS", "C++", "Java"],
-    achievements: [
-        "🏆 1st Place - National Science Day Competition",
-        "🚀 Smart India Hackathon 2025 Internal Finalist"
-    ],
-    interests: ["Building Web Projects", "3D Web Experiences", "Learning AI/ML"],
-    funFact: "Turning ideas into bugs ☕"
-};
+```java
+class Madhav {
+    String education = "B.Tech in Robotics & AI";
+    String[] learning = {"Python", "Machine Learning", "React.js"};
+    String experience = "Web Dev Intern @ Tensorik";
+    String[] tech = {"JavaScript", "HTML", "CSS", "C++", "Java"};
+    String[] achievements = {
+        "1st Place – National Science Day",
+        "Smart India Hackathon 2025 Finalist"
+    };
+    String funFact = "Turning ideas into bugs ☕";
+}
+
 ```
 
 ---

@@ -19,9 +19,9 @@
 ```java
 class Madhav {
     String education = "B.Tech in Robotics & AI";
-    String[] learning = {"Python", "Machine Learning", "React.js"};
+    String[] learning = {"Spring Boot", "Machine Learning", "Backend"};
     String experience = "Web Dev Intern @ Tensorik";
-    String[] tech = {"JavaScript", "HTML", "CSS", "C++", "Java"};
+    String[] tech = {"Spring Boot", "PYTHON", "C++", "Java"};
     String[] achievements = {
         "1st Place – National Science Day",
         "Smart India Hackathon 2025 Finalist"
